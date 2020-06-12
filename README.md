@@ -5,3 +5,5 @@ In this repositiory, introducing numerical Analysis method and realize in C-prog
 Solving the problem with several Root Finding method
 - Bisect Method
 - Newton Method
+- Secant Method
+- NewtonRaphon Method
